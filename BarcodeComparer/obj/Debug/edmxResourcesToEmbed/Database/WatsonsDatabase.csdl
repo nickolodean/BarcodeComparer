@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WatsonsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Barcode">
+    <Key>
+      <PropertyRef Name="BarcodeId" />
+    </Key>
+    <Property Name="BarcodeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SequenceNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CardNumber" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Barcodes" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LeanBarcode" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BarcodeItem" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LeanBarcodeItem" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Filename" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Matched" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Finalized" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PrintBatch" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Batch" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="FinalBarcode" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="DateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="User" Type="String" MaxLength="30" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityType Name="WatsonsView">
+    <Key>
+      <PropertyRef Name="SequenceNumber" />
+      <PropertyRef Name="Barcodes" />
+      <PropertyRef Name="Batch" />
+    </Key>
+    <Property Name="SequenceNumber" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Barcodes" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Barcoded" Type="String" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Name="Finalized" Type="String" MaxLength="3" FixedLength="false" Unicode="false" />
+    <Property Name="Released_Batch" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Batch" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="WatsonsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Barcodes" EntityType="Self.Barcode" />
+    <EntitySet Name="WatsonsViews" EntityType="Self.WatsonsView" />
+  </EntityContainer>
+</Schema>

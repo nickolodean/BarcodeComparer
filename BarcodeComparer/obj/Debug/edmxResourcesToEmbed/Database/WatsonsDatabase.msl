@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WatsonsModelStoreContainer" CdmEntityContainer="WatsonsEntities">
+    <EntitySetMapping Name="Barcodes">
+      <EntityTypeMapping TypeName="WatsonsModel.Barcode">
+        <MappingFragment StoreEntitySet="Barcode">
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+          <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+          <ScalarProperty Name="CardNumber" ColumnName="CardNumber" />
+          <ScalarProperty Name="Barcodes" ColumnName="Barcodes" />
+          <ScalarProperty Name="LeanBarcode" ColumnName="LeanBarcode" />
+          <ScalarProperty Name="BarcodeItem" ColumnName="BarcodeItem" />
+          <ScalarProperty Name="LeanBarcodeItem" ColumnName="LeanBarcodeItem" />
+          <ScalarProperty Name="Filename" ColumnName="Filename" />
+          <ScalarProperty Name="Matched" ColumnName="Matched" />
+          <ScalarProperty Name="Finalized" ColumnName="Finalized" />
+          <ScalarProperty Name="PrintBatch" ColumnName="PrintBatch" />
+          <ScalarProperty Name="Batch" ColumnName="Batch" />
+          <ScalarProperty Name="FinalBarcode" ColumnName="FinalBarcode" />
+          <ScalarProperty Name="DateTime" ColumnName="DateTime" />
+          <ScalarProperty Name="User" ColumnName="User" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="WatsonsViews">
+      <EntityTypeMapping TypeName="WatsonsModel.WatsonsView">
+        <MappingFragment StoreEntitySet="WatsonsView">
+          <ScalarProperty Name="SequenceNumber" ColumnName="SequenceNumber" />
+          <ScalarProperty Name="Barcodes" ColumnName="Barcodes" />
+          <ScalarProperty Name="Barcoded" ColumnName="Barcoded" />
+          <ScalarProperty Name="Finalized" ColumnName="Finalized" />
+          <ScalarProperty Name="Released_Batch" ColumnName="Released Batch" />
+          <ScalarProperty Name="Batch" ColumnName="Batch" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

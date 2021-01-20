@@ -1,0 +1,677 @@
+>>>>> Initializing Components ...	8:51:29 AM
+>>>>> Start Comparing ...	8:51:29 AM
+>>>>>> Opening file dialog ...	8:51:31 AM
+>>>>> Initializing Components ...	9:01:56 AM
+>>>>> Start Comparing ...	9:01:56 AM
+>>>>>> Opening file dialog ...	9:02:03 AM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180823_WATSONS_KIT_Manila2_20180809-upd_UAT_TEST.csv	9:02:06 AM
+>>>>>> First Barcode: 2261000012020	9:02:11 AM
+>>>>>> Checking CSV ...	9:02:13 AM
+>>>>>> Second Barcode: 2261000012020	9:02:13 AM
+>>>>>> Begin comparing barcodes ...	9:02:13 AM
+>>>>> Barcode Match! 	9:02:13 AM
+>>>>>> Begin barcode matching ...	9:02:13 AM
+>>>>>> Barcode Result: FAILED	9:02:17 AM
+>>>>>> Barcode Error: No barcode for comparing ...	9:02:17 AM
+>>>>>> First Barcode: 2086500236413	9:02:26 AM
+>>>>>> Checking CSV ...	9:02:28 AM
+>>>>>> Second Barcode: 2086500236413	9:02:28 AM
+>>>>>> Begin comparing barcodes ...	9:02:28 AM
+>>>>> Barcode Match! 	9:02:28 AM
+>>>>>> Begin barcode matching ...	9:02:28 AM
+>>>>>> Barcode Result: FAILED	9:02:28 AM
+>>>>>> Barcode Error: No barcode for comparing ...	9:02:28 AM
+>>>>>> First Barcode: 2261000227073	9:02:33 AM
+>>>>>> Checking CSV ...	9:02:35 AM
+>>>>>> Second Barcode: 2261000227073	9:02:35 AM
+>>>>>> Begin comparing barcodes ...	9:02:35 AM
+>>>>> Barcode Match! 	9:02:35 AM
+>>>>>> Begin barcode matching ...	9:02:35 AM
+>>>>>> Barcode Result: FAILED	9:02:37 AM
+>>>>>> Barcode Error: No barcode for comparing ...	9:02:37 AM
+>>>>>> First Barcode: 2261000012303	9:02:40 AM
+>>>>>> Checking CSV ...	9:02:42 AM
+>>>>>> Second Barcode: 2261000012303	9:02:42 AM
+>>>>>> Begin comparing barcodes ...	9:02:42 AM
+>>>>> Barcode Match! 	9:02:42 AM
+>>>>>> Begin barcode matching ...	9:02:42 AM
+>>>>>> Barcode Result: SUCCESS	9:02:42 AM
+>>>>>> First Barcode: 2261000226465	9:02:45 AM
+>>>>>> Checking CSV ...	9:02:46 AM
+>>>>>> Second Barcode: 2261000226465	9:02:46 AM
+>>>>>> Begin comparing barcodes ...	9:02:46 AM
+>>>>> Barcode Match! 	9:02:46 AM
+>>>>>> Begin barcode matching ...	9:02:46 AM
+>>>>>> Barcode Result: SUCCESS	9:02:46 AM
+>>>>>> First Barcode: 2261000226748	9:02:50 AM
+>>>>>> Checking CSV ...	9:02:51 AM
+>>>>>> Second Barcode: 2261000226748	9:02:51 AM
+>>>>>> Begin comparing barcodes ...	9:02:51 AM
+>>>>> Barcode Match! 	9:02:51 AM
+>>>>>> Begin barcode matching ...	9:02:51 AM
+>>>>>> Barcode Result: SUCCESS	9:02:51 AM
+>>>>>> First Barcode: 2261000226748	9:02:56 AM
+>>>>>> Checking CSV ...	9:03:01 AM
+>>>>>> Second Barcode: 2261000226748	9:03:01 AM
+>>>>>> Begin comparing barcodes ...	9:03:01 AM
+>>>>> Barcode Match! 	9:03:01 AM
+>>>>>> Begin barcode matching ...	9:03:01 AM
+>>>>>> Barcode Result: FAILED	9:03:03 AM
+>>>>>> Barcode Error: No barcode for comparing ...	9:03:03 AM
+>>>>>> Finalizing CSV report ...	9:03:48 AM
+>>>>>> Done finalizing csv report ...	9:03:48 AM
+>>>>>> Finalizing CSV report ...	9:03:52 AM
+>>>>>> Done finalizing csv report ...	9:03:52 AM
+>>>>> Initializing Components ...	10:36:07 AM
+>>>>> Start Comparing ...	10:36:07 AM
+>>>>>> First Barcode: 2086500236413	10:36:16 AM
+>>>>>> Checking CSV ...	10:36:18 AM
+>>>>>> No CSV File Detected ...	10:36:18 AM
+>>>>>> Choosing CSV ...	10:36:20 AM
+>>>>>> Opening file dialog ...	10:36:20 AM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180823_WATSONS_KIT_Manila2_20180809-upd_UAT_TEST.csv	10:36:25 AM
+>>>>>> Checking CSV ...	10:36:25 AM
+>>>>>> Second Barcode: 2086500236413	10:36:25 AM
+>>>>>> Begin comparing barcodes ...	10:36:25 AM
+>>>>> Barcode Match! 	10:36:25 AM
+>>>>>> Begin barcode matching to csv ...	10:36:25 AM
+>>>>>> Barcode Result: FAILED	10:36:25 AM
+>>>>>> Barcode Error: No barcode for comparing ...	10:36:25 AM
+>>>>>> First Barcode: 2261000012020	10:36:57 AM
+>>>>>> Checking CSV ...	10:36:59 AM
+>>>>>> Second Barcode: 2261000012020	10:36:59 AM
+>>>>>> Begin comparing barcodes ...	10:36:59 AM
+>>>>> Barcode Match! 	10:36:59 AM
+>>>>>> Begin barcode matching to csv ...	10:36:59 AM
+>>>>>> Barcode Result: FAILED	10:37:03 AM
+>>>>>> Barcode Error: No barcode for comparing ...	10:37:03 AM
+>>>>>> First Barcode: 2261000227073	10:37:29 AM
+>>>>>> Checking CSV ...	10:37:30 AM
+>>>>>> Second Barcode: 2261000227073	10:37:30 AM
+>>>>>> Begin comparing barcodes ...	10:37:30 AM
+>>>>> Barcode Match! 	10:37:30 AM
+>>>>>> Begin barcode matching to csv ...	10:37:30 AM
+>>>>>> Barcode Result: FAILED	10:37:32 AM
+>>>>>> Barcode Error: No barcode for comparing ...	10:37:32 AM
+>>>>>> Initializing Components ...	12:03:06 PM
+>>>>>> Start Comparing ...	12:03:06 PM
+>>>>>> Opening file dialog ...	12:03:09 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	12:03:14 PM
+>>>>>> First Barcode: 2086500236413	12:03:26 PM
+>>>>>> Checking CSV ...	12:03:29 PM
+>>>>>> Second Barcode: 2261000012020	12:03:29 PM
+>>>>>> Begin comparing barcodes ...	12:03:29 PM
+>>>>>> Barcode Error: The barcode is not match. Please check the barcode!	12:03:29 PM
+>>>>>> First Barcode: 2261000012020	12:03:38 PM
+>>>>>> Checking CSV ...	12:03:39 PM
+>>>>>> Second Barcode: 2261000012020	12:03:39 PM
+>>>>>> Begin comparing barcodes ...	12:03:39 PM
+>>>>> Barcode Match! 	12:03:39 PM
+>>>>>> Begin barcode matching to csv ...	12:03:39 PM
+>>>>>> Barcode Result: SUCCESS	12:03:39 PM
+>>>>>> First Barcode: 2261000012303	12:03:41 PM
+>>>>>> Checking CSV ...	12:03:43 PM
+>>>>>> Second Barcode: 2261000012303	12:03:43 PM
+>>>>>> Begin comparing barcodes ...	12:03:43 PM
+>>>>> Barcode Match! 	12:03:43 PM
+>>>>>> Begin barcode matching to csv ...	12:03:43 PM
+>>>>>> Barcode Result: SUCCESS	12:03:43 PM
+>>>>>> First Barcode: 2261000226465	12:03:49 PM
+>>>>>> Checking CSV ...	12:03:50 PM
+>>>>>> Second Barcode: 2261000226465	12:03:50 PM
+>>>>>> Begin comparing barcodes ...	12:03:50 PM
+>>>>> Barcode Match! 	12:03:50 PM
+>>>>>> Begin barcode matching to csv ...	12:03:50 PM
+>>>>>> Barcode Result: SUCCESS	12:03:50 PM
+>>>>>> First Barcode: 2261000226748	12:03:53 PM
+>>>>>> Checking CSV ...	12:03:54 PM
+>>>>>> Second Barcode: 2261000226748	12:03:54 PM
+>>>>>> Begin comparing barcodes ...	12:03:54 PM
+>>>>> Barcode Match! 	12:03:54 PM
+>>>>>> Begin barcode matching to csv ...	12:03:54 PM
+>>>>>> Barcode Result: SUCCESS	12:03:54 PM
+>>>>>> First Barcode: 2086500236413	12:03:56 PM
+>>>>>> Checking CSV ...	12:03:56 PM
+>>>>>> Second Barcode: 2086500236413	12:03:56 PM
+>>>>>> Begin comparing barcodes ...	12:03:56 PM
+>>>>> Barcode Match! 	12:03:56 PM
+>>>>>> Begin barcode matching to csv ...	12:03:56 PM
+>>>>>> Barcode Result: FAILED	12:03:56 PM
+>>>>>> Barcode Error: No barcode for comparing ...	12:03:56 PM
+>>>>>> First Barcode: 2261000227073	12:04:02 PM
+>>>>>> Checking CSV ...	12:04:02 PM
+>>>>>> Second Barcode: 2261000227073	12:04:02 PM
+>>>>>> Begin comparing barcodes ...	12:04:02 PM
+>>>>> Barcode Match! 	12:04:02 PM
+>>>>>> Begin barcode matching to csv ...	12:04:02 PM
+>>>>>> Barcode Result: SUCCESS	12:04:02 PM
+>>>>>> First Barcode: 2261000227851	12:04:05 PM
+>>>>>> Checking CSV ...	12:04:06 PM
+>>>>>> Second Barcode: 2261000227851	12:04:06 PM
+>>>>>> Begin comparing barcodes ...	12:04:06 PM
+>>>>> Barcode Match! 	12:04:06 PM
+>>>>>> Begin barcode matching to csv ...	12:04:06 PM
+>>>>>> Barcode Result: SUCCESS	12:04:06 PM
+>>>>>> Finalizing CSV report ...	12:04:08 PM
+>>>>>> Done finalizing csv report ...	12:04:08 PM
+>>>>>> Initializing Components ...	4:20:37 PM
+>>>>>> Start Comparing ...	4:20:37 PM
+>>>>>> Opening file dialog ...	4:20:39 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	4:20:42 PM
+>>>>>> Initializing Components ...	4:22:50 PM
+>>>>>> Start Comparing ...	4:22:50 PM
+>>>>>> Opening file dialog ...	4:22:52 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	4:22:54 PM
+>>>>>> Initializing Components ...	4:27:52 PM
+>>>>>> Start Comparing ...	4:27:52 PM
+>>>>>> Opening file dialog ...	4:27:53 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	4:27:56 PM
+>>>>>> Initializing Components ...	4:31:41 PM
+>>>>>> Start Comparing ...	4:31:41 PM
+>>>>>> Opening file dialog ...	4:31:42 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	4:31:45 PM
+>>>>>> Initializing Components ...	4:32:21 PM
+>>>>>> Start Comparing ...	4:32:21 PM
+>>>>>> Opening file dialog ...	4:32:28 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	4:32:30 PM
+>>>>>> Initializing Components ...	4:33:45 PM
+>>>>>> Start Comparing ...	4:33:45 PM
+>>>>>> Opening file dialog ...	4:33:46 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	4:33:48 PM
+>>>>>> Initializing Components ...	10:20:02 PM
+>>>>>> Start Comparing ...	10:20:02 PM
+>>>>>> Initializing Components ...	10:20:25 PM
+>>>>>> Start Comparing ...	10:20:25 PM
+>>>>>> Opening file dialog ...	10:20:25 PM
+>>>>>> Initializing Components ...	10:23:32 PM
+>>>>>> Start Comparing ...	10:23:32 PM
+>>>>>> Opening file dialog ...	10:23:33 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	10:23:37 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:38 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:41 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:42 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:43 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:43 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:43 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:43 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:43 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:44 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:44 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:44 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:44 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:44 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:44 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:44 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:45 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:45 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:45 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:45 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:45 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:45 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:46 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:46 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:46 PM
+>>>>>> Database Error: System.Data.Entity.Validation.DbEntityValidationException: Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at BarcodeComparer.Functions.SaveToDatabase..ctor(String FilePath) in C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\Functions\SaveToDatabase.cs:line 47	10:23:46 PM
+>>>>>> Initializing Components ...	10:25:08 PM
+>>>>>> Start Comparing ...	10:25:08 PM
+>>>>>> Opening file dialog ...	10:25:09 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	10:25:11 PM
+>>>>>> Initializing Components ...	10:27:01 PM
+>>>>>> Start Comparing ...	10:27:01 PM
+>>>>>> Opening file dialog ...	10:27:03 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	10:27:05 PM
+>>>>>> Initializing Components ...	10:30:43 PM
+>>>>>> Start Comparing ...	10:30:43 PM
+>>>>>> Opening file dialog ...	10:30:44 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	10:30:46 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:47 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:51 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:52 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:53 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:53 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:53 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:53 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:53 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:54 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:54 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:54 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:54 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:54 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:54 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:54 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:55 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:55 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:55 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:55 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:55 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:55 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:56 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:56 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:56 PM
+>>>>>> CSV File successfully loaded and saved 	10:30:56 PM
+>>>>>> Initializing Components ...	10:36:05 PM
+>>>>>> Start Comparing ...	10:36:05 PM
+>>>>>> Opening file dialog ...	10:36:07 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	10:36:09 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	10:36:10 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	10:36:11 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	10:36:11 PM
+>>>>>> Initializing Components ...	10:36:25 PM
+>>>>>> Start Comparing ...	10:36:25 PM
+>>>>>> Opening file dialog ...	10:36:29 PM
+>>>>>> Initializing Components ...	11:20:04 PM
+>>>>>> Start Comparing ...	11:20:04 PM
+>>>>>> Opening file dialog ...	11:20:04 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:20:07 PM
+>>>>>> ERROR: File Existed	11:20:09 PM
+>>>>>> Opening file dialog ...	11:20:41 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:20:43 PM
+>>>>>> Initializing Components ...	11:22:11 PM
+>>>>>> Start Comparing ...	11:22:11 PM
+>>>>>> Opening file dialog ...	11:22:12 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:22:14 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	11:22:19 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	11:22:19 PM
+>>>>>> Opening file dialog ...	11:22:23 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:22:25 PM
+>>>>>> ERROR: File Existed	11:22:26 PM
+>>>>>> Initializing Components ...	11:28:12 PM
+>>>>>> Start Comparing ...	11:28:12 PM
+>>>>>> Opening file dialog ...	11:28:13 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:28:16 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	11:28:18 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	11:28:18 PM
+>>>>>> First Barcode: 2261000012242	11:29:36 PM
+>>>>>> Checking CSV ...	11:29:38 PM
+>>>>>> Second Barcode: 2261000012242	11:29:38 PM
+>>>>>> Begin comparing barcodes ...	11:29:38 PM
+>>>>> Barcode Match! 	11:29:38 PM
+>>>>>> First Barcode: 2261000226304	11:29:41 PM
+>>>>>> Checking CSV ...	11:29:42 PM
+>>>>>> Second Barcode: 2261000226304	11:29:42 PM
+>>>>>> Begin comparing barcodes ...	11:29:42 PM
+>>>>> Barcode Match! 	11:29:42 PM
+>>>>>> First Barcode: 2261000226687	11:29:45 PM
+>>>>>> Checking CSV ...	11:29:46 PM
+>>>>>> Second Barcode: 2261000226687	11:29:46 PM
+>>>>>> Begin comparing barcodes ...	11:29:46 PM
+>>>>> Barcode Match! 	11:29:46 PM
+>>>>>> First Barcode: 2261000226960	11:29:48 PM
+>>>>>> Checking CSV ...	11:29:49 PM
+>>>>>> Second Barcode: 2261000226960	11:29:49 PM
+>>>>>> Begin comparing barcodes ...	11:29:49 PM
+>>>>> Barcode Match! 	11:29:49 PM
+>>>>>> First Barcode: 2261000226960	11:29:51 PM
+>>>>>> Checking CSV ...	11:29:53 PM
+>>>>>> Second Barcode: 2261000226960	11:29:53 PM
+>>>>>> Begin comparing barcodes ...	11:29:53 PM
+>>>>> Barcode Match! 	11:29:53 PM
+>>>>>> First Barcode: 2261000226960	11:29:57 PM
+>>>>>> Checking CSV ...	11:29:58 PM
+>>>>>> Second Barcode: 2261000226960	11:29:58 PM
+>>>>>> Begin comparing barcodes ...	11:29:58 PM
+>>>>> Barcode Match! 	11:29:58 PM
+>>>>>> Initializing Components ...	11:32:31 PM
+>>>>>> Start Comparing ...	11:32:31 PM
+>>>>>> Opening file dialog ...	11:32:32 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:32:34 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	11:32:36 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	11:32:37 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	11:32:37 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	11:32:37 PM
+>>>>>> First Barcode: 2086500236413	11:32:42 PM
+>>>>>> First Barcode: 2261000012020	11:32:50 PM
+>>>>>> Checking CSV ...	11:32:51 PM
+>>>>>> Second Barcode: 2261000012020	11:32:51 PM
+>>>>>> Begin comparing barcodes ...	11:32:51 PM
+>>>>> Barcode Match! 	11:32:51 PM
+>>>>>> First Barcode: 2261000012303	11:32:53 PM
+>>>>>> Checking CSV ...	11:32:54 PM
+>>>>>> Second Barcode: 2261000012303	11:32:54 PM
+>>>>>> Begin comparing barcodes ...	11:32:54 PM
+>>>>> Barcode Match! 	11:32:54 PM
+>>>>>> First Barcode: 2261000226465	11:32:57 PM
+>>>>>> Checking CSV ...	11:32:57 PM
+>>>>>> Second Barcode: 2261000226465	11:32:57 PM
+>>>>>> Begin comparing barcodes ...	11:32:57 PM
+>>>>> Barcode Match! 	11:32:57 PM
+>>>>>> First Barcode: 2261000226465	11:32:59 PM
+>>>>>> Checking CSV ...	11:33:00 PM
+>>>>>> Second Barcode: 2261000226465	11:33:00 PM
+>>>>>> Begin comparing barcodes ...	11:33:00 PM
+>>>>> Barcode Match! 	11:33:00 PM
+>>>>>> First Barcode: 2261000226465	11:33:01 PM
+>>>>>> Checking CSV ...	11:33:02 PM
+>>>>>> Second Barcode: 2261000226465	11:33:02 PM
+>>>>>> Begin comparing barcodes ...	11:33:02 PM
+>>>>> Barcode Match! 	11:33:02 PM
+>>>>>> First Barcode: 2261000226465	11:33:03 PM
+>>>>>> Checking CSV ...	11:33:04 PM
+>>>>>> Second Barcode: 2261000226465	11:33:04 PM
+>>>>>> Begin comparing barcodes ...	11:33:04 PM
+>>>>> Barcode Match! 	11:33:04 PM
+>>>>>> First Barcode: 2261000226465	11:33:05 PM
+>>>>>> Checking CSV ...	11:33:06 PM
+>>>>>> Second Barcode: 2261000226465	11:33:06 PM
+>>>>>> Begin comparing barcodes ...	11:33:06 PM
+>>>>> Barcode Match! 	11:33:06 PM
+>>>>>> First Barcode: 2261000226465	11:33:53 PM
+>>>>>> First Barcode: 2261000012303	11:34:29 PM
+>>>>>> Checking CSV ...	11:34:44 PM
+>>>>>> Second Barcode: 2261000012303	11:35:04 PM
+>>>>>> Begin comparing barcodes ...	11:35:14 PM
+>>>>> Barcode Match! 	11:35:18 PM
+>>>>>> Initializing Components ...	11:36:53 PM
+>>>>>> Start Comparing ...	11:36:53 PM
+>>>>>> Opening file dialog ...	11:36:54 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:36:56 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	11:36:58 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	11:36:58 PM
+>>>>>> First Barcode: 2261000012020	11:37:03 PM
+>>>>>> Checking CSV ...	11:37:10 PM
+>>>>>> Second Barcode: 2261000012020	11:37:10 PM
+>>>>>> Begin comparing barcodes ...	11:37:10 PM
+>>>>> Barcode Match! 	11:37:10 PM
+>>>>>> This barcode is already barcoded	11:37:13 PM
+>>>>>> Initializing Components ...	11:38:14 PM
+>>>>>> Start Comparing ...	11:38:14 PM
+>>>>>> Opening file dialog ...	11:38:15 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:38:17 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	11:38:19 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	11:38:20 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	11:38:20 PM
+>>>>>> First Barcode: 2261000012020	11:38:25 PM
+>>>>>> Checking CSV ...	11:38:26 PM
+>>>>>> Second Barcode: 2261000012020	11:38:26 PM
+>>>>>> Begin comparing barcodes ...	11:38:26 PM
+>>>>> Barcode Match! 	11:38:26 PM
+>>>>>> This barcode is already barcoded	11:38:29 PM
+>>>>>> First Barcode: 2261000012020	11:38:37 PM
+>>>>>> Checking CSV ...	11:38:38 PM
+>>>>>> Second Barcode: 2261000012020	11:38:38 PM
+>>>>>> Begin comparing barcodes ...	11:38:38 PM
+>>>>> Barcode Match! 	11:38:38 PM
+>>>>>> Initializing Components ...	11:39:35 PM
+>>>>>> Start Comparing ...	11:39:35 PM
+>>>>>> Opening file dialog ...	11:39:36 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:39:38 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	11:39:40 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	11:39:40 PM
+>>>>>> First Barcode: 2261000012020	11:39:46 PM
+>>>>>> Checking CSV ...	11:39:47 PM
+>>>>>> Second Barcode: 2261000012020	11:39:47 PM
+>>>>>> Begin comparing barcodes ...	11:39:47 PM
+>>>>> Barcode Match! 	11:39:47 PM
+>>>>>> First Barcode: 2261000012303	11:40:16 PM
+>>>>>> Checking CSV ...	11:40:16 PM
+>>>>>> Second Barcode: 2261000012303	11:40:16 PM
+>>>>>> Begin comparing barcodes ...	11:40:16 PM
+>>>>> Barcode Match! 	11:40:16 PM
+>>>>>> First Barcode: 2261000012303	11:40:18 PM
+>>>>>> Checking CSV ...	11:40:19 PM
+>>>>>> Second Barcode: 2261000012303	11:40:19 PM
+>>>>>> Begin comparing barcodes ...	11:40:19 PM
+>>>>> Barcode Match! 	11:40:19 PM
+>>>>>> This barcode is already barcoded	11:40:19 PM
+>>>>>> First Barcode: 2261000226465	11:40:24 PM
+>>>>>> Checking CSV ...	11:40:25 PM
+>>>>>> Second Barcode: 2261000226465	11:40:25 PM
+>>>>>> Begin comparing barcodes ...	11:40:25 PM
+>>>>> Barcode Match! 	11:40:25 PM
+>>>>>> Finalizing CSV report ...	11:40:30 PM
+>>>>>> Initializing Components ...	11:41:46 PM
+>>>>>> Start Comparing ...	11:41:46 PM
+>>>>>> Finalizing CSV report ...	11:41:47 PM
+>>>>>> Done finalizing csv report ...	11:41:49 PM
+>>>>>> Initializing Components ...	11:42:13 PM
+>>>>>> Start Comparing ...	11:42:13 PM
+>>>>>> Initializing Components ...	11:55:42 PM
+>>>>>> Start Comparing ...	11:55:42 PM
+>>>>>> Initializing Components ...	11:57:23 PM
+>>>>>> Start Comparing ...	11:57:23 PM
+>>>>>> Opening file dialog ...	11:57:24 PM
+>>>>>> File selected: C:\Users\nickorother.belir\Desktop\20180824_WATSONS_KIT_Manila2_20180809-upd_AWTSU.csv	11:57:27 PM
+>>>>>> Sequence Number: 000001 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000002 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000003 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000004 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000005 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000006 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000007 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000008 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000009 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000010 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000011 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000012 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000013 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000014 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000015 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000016 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000017 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000018 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000019 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000020 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000021 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000022 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000023 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000024 successfully save into the database	11:57:29 PM
+>>>>>> Sequence Number: 000025 successfully save into the database	11:57:29 PM
+>>>>>> First Barcode: 2261000012303	11:57:52 PM
+>>>>>> Checking CSV ...	11:57:53 PM
+>>>>>> Second Barcode: 2261000012303	11:57:53 PM
+>>>>>> Begin comparing barcodes ...	11:57:53 PM
+>>>>> Barcode Match! 	11:57:53 PM
+>>>>>> First Barcode: 2261000226465	11:57:59 PM
+>>>>>> Checking CSV ...	11:58:00 PM
+>>>>>> Second Barcode: 2261000226465	11:58:00 PM
+>>>>>> Begin comparing barcodes ...	11:58:00 PM
+>>>>> Barcode Match! 	11:58:00 PM
+>>>>>> Finalizing CSV report ...	11:58:05 PM
+>>>>>> Done finalizing csv report ...	11:58:05 PM

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WatsonsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Barcode">
+    <Key>
+      <PropertyRef Name="BarcodeId" />
+    </Key>
+    <Property Name="BarcodeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SequenceNumber" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="CardNumber" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Barcodes" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="LeanBarcode" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="BarcodeItem" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="LeanBarcodeItem" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Filename" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Matched" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Finalized" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="PrintBatch" Type="nvarchar" MaxLength="50" />
+    <Property Name="Batch" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="FinalBarcode" Type="nvarchar" MaxLength="10" />
+    <Property Name="DateTime" Type="datetime" Nullable="false" />
+    <Property Name="User" Type="nvarchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Watsons.dbo.WatsonsView' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="WatsonsView">
+    <Key>
+      <PropertyRef Name="SequenceNumber" />
+      <PropertyRef Name="Barcodes" />
+      <PropertyRef Name="Batch" />
+    </Key>
+    <Property Name="SequenceNumber" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Barcodes" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Barcoded" Type="varchar" MaxLength="3" />
+    <Property Name="Finalized" Type="varchar" MaxLength="3" />
+    <Property Name="Released Batch" Type="nvarchar" MaxLength="50" />
+    <Property Name="Batch" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="WatsonsModelStoreContainer">
+    <EntitySet Name="Barcode" EntityType="Self.Barcode" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="WatsonsView" EntityType="Self.WatsonsView" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [WatsonsView].[SequenceNumber] AS [SequenceNumber], 
+    [WatsonsView].[Barcodes] AS [Barcodes], 
+    [WatsonsView].[Barcoded] AS [Barcoded], 
+    [WatsonsView].[Finalized] AS [Finalized], 
+    [WatsonsView].[Released Batch] AS [Released Batch], 
+    [WatsonsView].[Batch] AS [Batch]
+    FROM [dbo].[WatsonsView] AS [WatsonsView]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

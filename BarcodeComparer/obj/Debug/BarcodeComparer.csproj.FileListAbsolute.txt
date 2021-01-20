@@ -1,0 +1,72 @@
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\bin\Debug\BarcodeComparer.exe
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\bin\Debug\BarcodeComparer.pdb
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csprojAssemblyReference.cache
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.BarcodeComparerForm.resources
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.Properties.Resources.resources
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csproj.GenerateResource.cache
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csproj.CoreCompileInputs.cache
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.exe
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.pdb
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\bin\Debug\BarcodeComparer.exe.config
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\bin\Debug\FileHelpers.dll
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\bin\Debug\FileHelpers.xml
+C:\Users\nickorother.belir\source\repos\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csproj.CopyComplete
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\BarcodeComparer.exe.config
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\BarcodeComparer.exe
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\BarcodeComparer.pdb
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\FileHelpers.xml
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csprojAssemblyReference.cache
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.BarcodeComparerForm.resources
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.Properties.Resources.resources
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csproj.GenerateResource.cache
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csproj.CoreCompileInputs.cache
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.csproj.CopyComplete
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.exe
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.pdb
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\EntityFramework.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\EntityFramework.xml
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.Reports.PreviewReport.resources
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\bin\Debug\Reports\WATSONSXPackingList.rdlc
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.FinalBarcodeForm.resources
+C:\Users\nickorother.belir\Desktop\Programs\Barcode Comparer\BarcodeComparer\BarcodeComparer\obj\Debug\BarcodeComparer.Forms.ViewDatabaseForm.resources
